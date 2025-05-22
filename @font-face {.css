@@ -1,0 +1,72 @@
+@font-face {
+    font-family: "Montserrat";
+    src: url(./font/Montserrat-VariableFont_wght.ttf);
+}
+*{
+    font-family: Montserrat;
+}
+header{
+    background-color: rgb(177, 4, 4);
+    color: white;
+    padding: 20px;
+}
+header a{
+    color: white;
+    text-decoration: none;
+}
+.special{
+    text-shadow: 4px 4px 4px rgb(177, 4, 4);
+}
+.underline {
+    position: relative;
+    display: inline-block;
+}
+.underline::after {
+    content: '';
+    position: absolute;
+    left: 50%;
+    bottom: -7px;
+    width: 80%;
+    height: 3px;
+    background-color: red;
+    transform: translateX(-50%);
+    z-index: -1;
+}
+.red{
+    border-radius: 50%;
+    background-color: rgb(177, 4, 4);
+    color: white;
+    overflow: hidden;
+    padding: 30px;
+}
+.haupt{
+    margin: 50px 0px;
+}
+.pomak{
+    padding-top: 100px;
+}
+.velika{
+    width: 100%;
+    margin-bottom: 30px;
+}
+.margina{
+    margin: 30px 0;
+}
+.gallery{
+    margin: 30px 0;
+}
+.gallery img{
+    width: 100%;
+    padding: 5px;
+}
+footer{
+    font-weight: bold;
+}
+img:hover{
+    opacity: 80%;
+}
+@media screen and (max-width: 991px) {
+    .pomak{
+        padding-top: 0px;
+    }
+}
