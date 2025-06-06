@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<smil xmlns="http://www.w3.org/ns/SMIL">
+    <head>
+        <meta name="generator" content="EPUB 3 SMIL">
+    </head>
+    <body>
+        <seq>
+            <par>
+                <audio src="audio.mp3" dur="6653s"/>
+                <text src="Poglavlje10.xhtml" />
+            </par>
+        </seq>
+
+        <seq>
+            <par><text src="Poglavlje10.html#1" begin="2030s" /></par>
+            <par><text src="Poglavlje10.html#2" begin="2048s" /></par>
+            <par><text src="Poglavlje10.html#3" begin="2060s" /></par>
+    
+            <par><text src="Poglavlje10.html#4" begin="2066s" /></par>
+            <par><text src="Poglavlje10.html#5" begin="2068s" /></par>
+            <par><text src="Poglavlje10.html#6" begin="2069s" /></par>
+            <par><text src="Poglavlje10.html#7" begin="2071s" /></par>
+            <par><text src="Poglavlje10.html#8" begin="2073s" /></par>
+            <par><text src="Poglavlje10.html#9" begin="2105s" /></par>
+            <par><text src="Poglavlje10.html#10" begin="2114s" /></par>
+            <par><text src="Poglavlje10.html#11" begin="2116s" /></par>
+            <par><text src="Poglavlje10.html#12" begin="2135s" /></par>
+            <par><text src="Poglavlje10.html#13" begin="2137s" /></par>  
+
+            <par><text src="Poglavlje10.html#14" begin="2137s" /></par>
+            <par><text src="Poglavlje10.html#15" begin="2139s" /></par>
+            <par><text src="Poglavlje10.html#16" begin="2141s" /></par>
+            <par><text src="Poglavlje10.html#17" begin="2165s" /></par>
+            <par><text src="Poglavlje10.html#18" begin="2181s" /></par>
+            <par><text src="Poglavlje10.html#19" begin="2184s" /></par>
+            <par><text src="Poglavlje10.html#20" begin="2192s" /></par>
+
+            <par><text src="Poglavlje10.html#21" begin="2199" /></par>
+            <par><text src="Poglavlje10.html#22" begin="2209s" /></par>
+            <par><text src="Poglavlje10.html#23" begin="2212s" /></par>
+            <par><text src="Poglavlje10.html#24" begin="2217s" /></par>
+            <par><text src="Poglavlje10.html#25" begin="2222s" /></par>
+            <par><text src="Poglavlje10.html#26" begin="2223s" /></par>
+            <par><text src="Poglavlje10.html#27" begin="2225s" /></par>
+
+            <par><text src="Poglavlje10.html#28" begin="2226s" /></par>
+            <par><text src="Poglavlje10.html#29" begin="2228s" /></par>
+            <par><text src="Poglavlje10.html#30" begin="2230s" /></par>
+            <par><text src="Poglavlje10.html#31" begin="2254s" /></par>
+            <par><text src="Poglavlje10.html#32" begin="2268s" /></par>
+            <par><text src="Poglavlje10.html#33" begin="2276s" /></par>
+            <par><text src="Poglavlje10.html#34" begin="2291s" /></par>
+            <par><text src="Poglavlje10.html#35" begin="2295s" /></par>
+            <par><text src="Poglavlje10.html#36" begin="2317s" /></par>
+            <par><text src="Poglavlje10.html#37" begin="2325s" /></par>
+            <par><text src="Poglavlje10.html#38" begin="2336s" /></par>
+            <par><text src="Poglavlje10.html#39" begin="2339s" /></par>
+            <par><text src="Poglavlje10.html#40" begin="2356s" /></par>
+            <par><text src="Poglavlje10.html#41" begin="2366s" /></par>
+
+            <par><text src="Poglavlje10.html#42" begin="2371s" /></par>
+            <par><text src="Poglavlje10.html#43" begin="2381s" /></par>
+            <par><text src="Poglavlje10.html#44" begin="2383s" /></par>
+            <par><text src="Poglavlje10.html#45" begin="2385s" /></par>
+            <par><text src="Poglavlje10.html#46" begin="2388s" /></par>
+            <par><text src="Poglavlje10.html#47" begin="2400s" /></par>
+            <par><text src="Poglavlje10.html#48" begin="2409s" /></par>
+            <par><text src="Poglavlje10.html#49" begin="2426s" /></par>
+            <par><text src="Poglavlje10.html#50" begin="2432s" /></par>
+            <par><text src="Poglavlje10.html#51" begin="2455s" /></par>
+            <par><text src="Poglavlje10.html#52" begin="2466s" /></par>
+            <par><text src="Poglavlje10.html#53" begin="2472s" /></par>
+            <par><text src="Poglavlje10.html#54" begin="2494s" /></par>
+            <par><text src="Poglavlje10.html#55" begin="2501s" /></par>
+            <par><text src="Poglavlje10.html#56" begin="2505s" /></par>
+            <par><text src="Poglavlje10.html#57" begin="2513s" /></par>
+            <par><text src="Poglavlje10.html#58" begin="2522s" /></par>
+        </seq>
+    </body>
+</smil>
